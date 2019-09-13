@@ -1,5 +1,5 @@
 public class BotField {
-
+//Test Change for Playground
     @AuraEnabled public String name { get;set; }
     @AuraEnabled public String value { get;set; }
     @AuraEnabled public String linkURL { get;set; }
@@ -14,5 +14,5 @@ public class BotField {
         this.value = value;
         this.linkURL = linkURL;
     }
-
+//Second Change in the same Apex Class
 }
