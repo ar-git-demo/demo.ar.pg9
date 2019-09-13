@@ -8,4 +8,6 @@
     <tabs>standard-Workspace</tabs>
     <tabs>standard-ContentSearch</tabs>
     <tabs>standard-ContentSubscriptions</tabs>
+    <tabs>Test_Demo_Object__c</tabs>
+    <tabs>Parent__c</tabs>
 </CustomApplication>

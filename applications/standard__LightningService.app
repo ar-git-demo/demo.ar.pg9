@@ -12,9 +12,17 @@
     <tabs>standard-report</tabs>
     <tabs>standard-Dashboard</tabs>
     <tabs>standard-home</tabs>
+    <tabs>Test_Demo_Object__c</tabs>
+    <tabs>Parent__c</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>LightningService_UtilityBar</utilityBar>
     <workspaceConfig>
+        <mappings>
+            <tab>Parent__c</tab>
+        </mappings>
+        <mappings>
+            <tab>Test_Demo_Object__c</tab>
+        </mappings>
         <mappings>
             <tab>standard-Account</tab>
         </mappings>

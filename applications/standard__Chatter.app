@@ -9,4 +9,6 @@
     <tabs>standard-OtherUserProfile</tabs>
     <tabs>standard-CollaborationGroup</tabs>
     <tabs>standard-File</tabs>
+    <tabs>Test_Demo_Object__c</tabs>
+    <tabs>Parent__c</tabs>
 </CustomApplication>

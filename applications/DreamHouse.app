@@ -27,6 +27,8 @@
     <tabs>Sample_Data_Import</tabs>
     <tabs>Bot_Command__c</tabs>
     <tabs>standard-File</tabs>
+    <tabs>Test_Demo_Object__c</tabs>
+    <tabs>Parent__c</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>dreamhouseApplicationUtilityBar</utilityBar>
 </CustomApplication>

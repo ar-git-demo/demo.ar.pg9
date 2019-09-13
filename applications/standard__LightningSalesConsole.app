@@ -18,9 +18,17 @@
     <tabs>standard-Feed</tabs>
     <tabs>standard-CollaborationGroup</tabs>
     <tabs>standard-File</tabs>
+    <tabs>Test_Demo_Object__c</tabs>
+    <tabs>Parent__c</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>LightningSalesConsole_UtilityBar</utilityBar>
     <workspaceConfig>
+        <mappings>
+            <tab>Parent__c</tab>
+        </mappings>
+        <mappings>
+            <tab>Test_Demo_Object__c</tab>
+        </mappings>
         <mappings>
             <tab>standard-Account</tab>
         </mappings>
