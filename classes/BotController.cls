@@ -1,5 +1,5 @@
 public with sharing class BotController {
-//Change made for a Conflict
+//Change made for a Conflict - Oct 25 change
     class HandlerMapping {
         
         public String handlerClassName;
